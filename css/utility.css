@@ -226,3 +226,8 @@
 .text-light{
     color: var(--light-color);
 }
+
+.hidden{
+    visibility: hidden;
+    height: 0px;
+}
